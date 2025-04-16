@@ -11,6 +11,11 @@
 
 ### Instalación
 
+ **Clona el repositorio:**
+
+```bash
+git clone https://github.com/erazo16/lading-page-fintech.git
+
 1. Instala las dependencias:
 
 bash
