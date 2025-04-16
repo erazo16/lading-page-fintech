@@ -3,8 +3,8 @@
 import React from "react";
 import Link from "next/link";
 import { useParams } from "next/navigation";
-import { getProductById } from "@/utils/data";
 import ProductDetails from "@/components/product/productDetail";
+import { getProductById } from "@/utils/utils";
 
 export default function ProductPage() {
   const params = useParams();
